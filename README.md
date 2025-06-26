@@ -6,11 +6,14 @@ A Java Swing application that provides a platform for artisans to sell their han
 
 | Main Launcher | Admin Dashboard | Artisan Dashboard |
 |:------------:|:--------------:|:----------------:|
-| ![Main Launcher](resources/images/screenshot_main_launcher.png) | ![Admin Dashboard](resources/images/screenshot_admin_dashboard.png) | ![Artisan Dashboard](resources/images/screenshot_artisan_dashboard.png) |
+| ![Main Launcher]![image](https://github.com/user-attachments/assets/1f2f7d3e-9137-414c-b16c-2c99887f392c)
+ | ![Admin Dashboard]![image](https://github.com/user-attachments/assets/9d8f07c5-c6c7-4dd4-9942-a49f070c6bc9)
+ | ![Artisan Dashboard]![image](https://github.com/user-attachments/assets/75976b69-7e75-466a-9aea-4560997a6aaa)
+ |
 
 | Customer Dashboard | Product Details | Shopping Cart |
 |:------------------:|:--------------:|:-------------:|
-| ![Customer Dashboard](resources/images/screenshot_customer_dashboard.png) | ![Product Details](resources/images/screenshot_product_details.png) | ![Shopping Cart](resources/images/screenshot_shopping_cart.png) |
+| ![Customer Dashboard]![image](https://github.com/user-attachments/assets/39d7b03b-7c23-460f-95dc-0a17895f5203)
 
 ## Features
 
