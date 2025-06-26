@@ -104,7 +104,3 @@ In a production environment, this recommendation system could be enhanced with m
 ## Security Note
 
 This application uses plaintext password storage for demonstration purposes only. In a production environment, passwords should be hashed using a secure algorithm (e.g., bcrypt) and proper security measures should be implemented.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
